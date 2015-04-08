@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/vladislav-i/git-collaboration.png?label=ready&title=Ready)](https://waffle.io/vladislav-i/git-collaboration)
 # Git Collaboration Exercise
 
 1. Designate a head member of your team
